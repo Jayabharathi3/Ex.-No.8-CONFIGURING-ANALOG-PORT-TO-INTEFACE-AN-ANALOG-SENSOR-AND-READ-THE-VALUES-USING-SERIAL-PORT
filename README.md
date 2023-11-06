@@ -1,16 +1,17 @@
  
 
 
-### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
-## Date: 
-###  
+# Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
+
+
 
 ## Aim: 
 To configure ADC channel for interfacing an analog sensor and read the values on the com port 
+
 ## Components required:
 STM 32 CUBE IDE , STM32 NUCLEO BOARD, CONNECTING CABLE, SERIAL PORT UTILITY , ANALOG SENSOR - 3.3V TYPE 
- ## Theory 
 
+ ## Theory 
  
 ADCs are characterized by:
 
