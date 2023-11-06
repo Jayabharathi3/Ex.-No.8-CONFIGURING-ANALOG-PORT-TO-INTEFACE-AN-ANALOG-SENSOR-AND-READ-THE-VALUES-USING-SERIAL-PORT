@@ -335,13 +335,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
  
-
-
- 
 ## Output  :
+
+![image](https://github.com/Jayabharathi3/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/120367796/1521b653-50d6-407e-bd28-d106f2c289b9)
 
 
 ## Result :
-
+ ADC channel for interfacing an analog sensor is configured and the values on the serial utility port is measured
 
 
